@@ -1,2 +1,2 @@
 # first_web
-"Basic git project 1"
+"Basic git web project 1"
